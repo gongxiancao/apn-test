@@ -1,0 +1,22 @@
+{
+  "name": "apn-test",
+  "version": "0.0.0",
+  "description": "test for apn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gongxiancao/apn-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gongxiancao/apn-test/issues"
+  },
+  "homepage": "https://github.com/gongxiancao/apn-test",
+  "dependencies": {
+    "apn": "^1.5.2"
+  }
+}
